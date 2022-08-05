@@ -1,0 +1,12 @@
+A .txt file in your design directory outlining the system
+features and architecture. This should also summarize the
+purpose of folders/files in your codebase, so your
+demonstrator can identify where you implemented each
+feature. 
+
+Within the folder project_files
+
+Our code implementation has the following functions:
+
+Read
+    -this functions reads from the 
